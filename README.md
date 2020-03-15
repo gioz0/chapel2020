@@ -1,2 +1,1 @@
-# chapel2020
-Chapel - Parallel Programming Language
+# Chapel - Parallel Programming Language
